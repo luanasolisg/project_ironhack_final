@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#paths
+csv/
+csv_total/
+scraping/
