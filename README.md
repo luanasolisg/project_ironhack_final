@@ -10,7 +10,7 @@ All this process will be automatically done every day.
 
 ## Scraping:
 
-We are going to scrape three different website () and look in each of them three different products (). For the scraping we are going to use Selenium and the result of the scrape will be a csv for each website.
+We are going to scrape three different websites () and look in each of them three different products (). For the scraping we are going to use Selenium and the result of the scrape will be a csv for each website.
 
 ## Creating a data base:
 
@@ -22,6 +22,6 @@ We will use Power BI to analyze if the different prices we hhave obtained are th
 
 ## Automatization:
 
-As we want this process done every day, we will use crontab to mae it happen every day at 12:00.
+As we want this process done every day, we will use Task Scheduler to make this process happen every day at 13:00.
 
  
